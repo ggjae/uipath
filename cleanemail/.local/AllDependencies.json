@@ -5016,11 +5016,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "cleanemail",
-      "projectName": "cleanemail",
-      "projectPath": "C:\\Users\\jaeyong\\Documents\\UiPath\\cleanemail\\.local",
+      "projectUniqueName": "naveremail",
+      "projectName": "naveremail",
+      "projectPath": "C:\\Users\\jaeyong\\Documents\\UiPath\\naveremail\\.local",
       "packagesPath": "C:\\Users\\jaeyong\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jaeyong\\Documents\\UiPath\\cleanemail\\.local"
+      "outputPath": "C:\\Users\\jaeyong\\Documents\\UiPath\\naveremail\\.local"
     },
     "frameworks": {
       "net461": {
