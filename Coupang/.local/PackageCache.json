@@ -2,6 +2,34 @@
   "Packages": [
     {
       "Package": {
+        "Id": "Google.Apis.Core",
+        "Version": "1.49.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\jaeyong\\.nuget\\packages\\google.apis.core/1.49.0\\lib/net45/Google.Apis.Core.dll",
+        "C:\\Users\\jaeyong\\.nuget\\packages\\newtonsoft.json/12.0.3\\lib/net45/Newtonsoft.Json.dll"
+      ],
+      "Path": "C:\\Users\\jaeyong\\.nuget\\packages\\google.apis.core\\1.49.0"
+    },
+    {
+      "Package": {
+        "Id": "React.Web",
+        "Version": "5.2.11"
+      },
+      "Assemblies": [
+        "C:\\Users\\jaeyong\\.nuget\\packages\\advancedstringbuilder/0.1.0\\lib/net45/AdvancedStringBuilder.dll",
+        "C:\\Users\\jaeyong\\.nuget\\packages\\javascriptengineswitcher.core/3.1.0\\lib/net45/JavaScriptEngineSwitcher.Core.dll",
+        "C:\\Users\\jaeyong\\.nuget\\packages\\jspool/4.0.0\\lib/net45/JSPool.dll",
+        "C:\\Users\\jaeyong\\.nuget\\packages\\microsoft.web.infrastructure/1.0.0\\lib/net40/Microsoft.Web.Infrastructure.dll",
+        "C:\\Users\\jaeyong\\.nuget\\packages\\newtonsoft.json/12.0.3\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\jaeyong\\.nuget\\packages\\react.core/5.2.11\\lib/net45/React.Core.dll",
+        "C:\\Users\\jaeyong\\.nuget\\packages\\react.web/5.2.11\\lib/net40/React.Web.dll",
+        "C:\\Users\\jaeyong\\.nuget\\packages\\webactivatorex/2.2.0\\lib/net40/WebActivatorEx.dll"
+      ],
+      "Path": "C:\\Users\\jaeyong\\.nuget\\packages\\react.web\\5.2.11"
+    },
+    {
+      "Package": {
         "Id": "System.Text.Json",
         "Version": "5.0.1"
       },
@@ -184,34 +212,6 @@
         "C:\\Users\\jaeyong\\.nuget\\packages\\uipath.vision/2.2.0\\lib/net461/UiPath.Vision.dll"
       ],
       "Path": "C:\\Users\\jaeyong\\.nuget\\packages\\uipath.uiautomation.activities\\20.10.8"
-    },
-    {
-      "Package": {
-        "Id": "React.Web",
-        "Version": "5.2.11"
-      },
-      "Assemblies": [
-        "C:\\Users\\jaeyong\\.nuget\\packages\\advancedstringbuilder/0.1.0\\lib/net45/AdvancedStringBuilder.dll",
-        "C:\\Users\\jaeyong\\.nuget\\packages\\javascriptengineswitcher.core/3.1.0\\lib/net45/JavaScriptEngineSwitcher.Core.dll",
-        "C:\\Users\\jaeyong\\.nuget\\packages\\jspool/4.0.0\\lib/net45/JSPool.dll",
-        "C:\\Users\\jaeyong\\.nuget\\packages\\microsoft.web.infrastructure/1.0.0\\lib/net40/Microsoft.Web.Infrastructure.dll",
-        "C:\\Users\\jaeyong\\.nuget\\packages\\newtonsoft.json/12.0.3\\lib/net45/Newtonsoft.Json.dll",
-        "C:\\Users\\jaeyong\\.nuget\\packages\\react.core/5.2.11\\lib/net45/React.Core.dll",
-        "C:\\Users\\jaeyong\\.nuget\\packages\\react.web/5.2.11\\lib/net40/React.Web.dll",
-        "C:\\Users\\jaeyong\\.nuget\\packages\\webactivatorex/2.2.0\\lib/net40/WebActivatorEx.dll"
-      ],
-      "Path": "C:\\Users\\jaeyong\\.nuget\\packages\\react.web\\5.2.11"
-    },
-    {
-      "Package": {
-        "Id": "Google.Apis.Core",
-        "Version": "1.49.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\jaeyong\\.nuget\\packages\\google.apis.core/1.49.0\\lib/net45/Google.Apis.Core.dll",
-        "C:\\Users\\jaeyong\\.nuget\\packages\\newtonsoft.json/12.0.3\\lib/net45/Newtonsoft.Json.dll"
-      ],
-      "Path": "C:\\Users\\jaeyong\\.nuget\\packages\\google.apis.core\\1.49.0"
     }
   ],
   "Conflicts": [],
