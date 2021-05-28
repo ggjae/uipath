@@ -5018,9 +5018,9 @@
     "restore": {
       "projectUniqueName": "naveremail",
       "projectName": "naveremail",
-      "projectPath": "C:\\Users\\jaeyong\\Documents\\UiPath\\naveremail\\.local",
+      "projectPath": "C:\\Users\\jaeyong\\git\\uipath\\uipath\\naveremail\\.local",
       "packagesPath": "C:\\Users\\jaeyong\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jaeyong\\Documents\\UiPath\\naveremail\\.local"
+      "outputPath": "C:\\Users\\jaeyong\\git\\uipath\\uipath\\naveremail\\.local"
     },
     "frameworks": {
       "net461": {

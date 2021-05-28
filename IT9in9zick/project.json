@@ -1,6 +1,6 @@
 {
-  "name": "github",
-  "description": "빈 프로세스",
+  "name": "IT9in9zick",
+  "description": "최근 IT 기업들의 취업정보와 구인구직 이야기를 가져오는 자동화 프로세스",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.10.4]",
@@ -12,7 +12,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "21.4.3.0",
-  "projectVersion": "1.0.0",
+  "projectVersion": "1.0.1",
   "runtimeOptions": {
     "autoDispose": false,
     "isPausable": true,

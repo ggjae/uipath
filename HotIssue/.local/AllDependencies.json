@@ -5018,9 +5018,9 @@
     "restore": {
       "projectUniqueName": "HotIssue",
       "projectName": "HotIssue",
-      "projectPath": "C:\\Users\\jaeyong\\Documents\\UiPath\\HotIssue\\.local",
+      "projectPath": "C:\\Users\\jaeyong\\git\\uipath\\uipath\\HotIssue\\.local",
       "packagesPath": "C:\\Users\\jaeyong\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jaeyong\\Documents\\UiPath\\HotIssue\\.local"
+      "outputPath": "C:\\Users\\jaeyong\\git\\uipath\\uipath\\HotIssue\\.local"
     },
     "frameworks": {
       "net461": {

@@ -1,6 +1,6 @@
 {
-  "name": "HotIssue",
-  "description": "빈 프로세스",
+  "name": "Hot-ITssue",
+  "description": "최근 IT관련 뉴스들을 모아서 엑셀에 저장해주는 자동화 프로세스",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.10.4]",
@@ -12,7 +12,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "21.4.3.0",
-  "projectVersion": "1.0.0",
+  "projectVersion": "1.0.1",
   "runtimeOptions": {
     "autoDispose": false,
     "isPausable": true,

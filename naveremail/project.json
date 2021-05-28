@@ -1,6 +1,6 @@
 {
-  "name": "naveremail",
-  "description": "빈 프로세스",
+  "name": "email-cleaner",
+  "description": "키워드 입력을 받아 관련 이메일을 정리해주는 자동화 프로세스",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.10.4]",
